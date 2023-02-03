@@ -253,7 +253,7 @@ body::before {
   }
 }
 .profile-card__actions > button.blue {
-  background: linear-gradient(45deg, rgb(74, 128, 186), rgb(63, 9, 241));
+  background: linear-gradient(45deg, rgb(234, 118, 255), rgb(9, 144, 241));
   box-shadow: 0 4px 30px rgb(104, 119, 255);
 }
 .profile-card__actions > button.blue:hover {
